@@ -1,0 +1,2 @@
+from .emotion_detection import emotion_detector
+https://github.com/nsavkoviic/oaqjp-final-project-emb-ai/blob/main/final_project/EmotionDetection/__init__.py
